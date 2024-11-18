@@ -15,7 +15,7 @@ The steps followed in this implementation are:
 4. Check the service response and set a green LED if there is no error, otherwise it turns red. 
 
 ## 3. Hardware
-
+a
 This example was tested in the following hardware:
 - S32K344EVB-T172
 - S32K344EVB-Q172
